@@ -31,4 +31,6 @@ s consists of English letters, digits, symbols and spaces.
 
 
 SOLUTION INFO
-10/29/2022 11:11	Accepted	10 ms	5.7 MB	c
+10/29/2022 11:11	Accepted	6 ms	5.8 MB	c
+    Runtime: 6 ms, faster than 74.29% of C online submissions for Longest Substring Without Repeating Characters.
+    Memory Usage: 5.8 MB, less than 92.48% of C online submissions for Longest Substring Without Repeating Characters.

@@ -32,5 +32,9 @@ It is guaranteed that the list represents a number that does not have leading ze
 
 
 SOLUTION INFO
-10/29/2022 01:43	Accepted	11 ms	7.7 MB	c
-10/29/2022 00:37	Accepted	69 ms	14 MB	python3
+10/29/2022 13:28	Accepted	20 ms	7.6 MB	c
+    Runtime: 20 ms, faster than 72.59% of C online submissions for Add Two Numbers.
+    Memory Usage: 7.6 MB, less than 86.38% of C online submissions for Add Two Numbers.
+10/29/2022 13:23	Accepted	128 ms	13.9 MB	python3
+    Runtime: 128 ms, faster than 63.38% of Python3 online submissions for Add Two Numbers.
+    Memory Usage: 13.9 MB, less than 86.24% of Python3 online submissions for Add Two Numbers.
